@@ -1,4 +1,4 @@
-# BSOD-Windows-10-Proof-of-Concept-
+# BSOD-Windows-10-Proof-of-Concept- ---> Still Not Patched
 
 <img src="https://raw.githubusercontent.com/swagkarna/BSOD-Windows-10-Proof-of-Concept-/main/windows-10-crash.jpg">
 
@@ -9,5 +9,7 @@
 ### I have Done some social engineering techniques in order to perfom this attack.....
 ### When User runs this exe file a pdf will be displayed on his windows and after 20sec his windows10 will be crashed...
 ## Malware Detection ::
-### This exe file is fully undetectable not detected by windows defender...So user wont get any threat alerts
+### This exe file is fully undetectable not detected by windows defender...So user wont get any threat alerts...This file is coded in VB.Net
 
+## Disclaimer ::
+## Use it Only For Educational Purpose....Love You Guys....
