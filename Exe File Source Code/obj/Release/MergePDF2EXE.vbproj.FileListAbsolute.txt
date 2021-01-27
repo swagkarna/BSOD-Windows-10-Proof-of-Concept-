@@ -1,0 +1,22 @@
+C:\Users\Lenovo\source\repos\MergePDF2EXE\bin\Release\MergePDF2EXE.exe.config
+C:\Users\Lenovo\source\repos\MergePDF2EXE\bin\Release\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\MergePDF2EXE\bin\Release\MergePDF2EXE.pdb
+C:\Users\Lenovo\source\repos\MergePDF2EXE\bin\Release\MergePDF2EXE.xml
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Release\MergePDF2EXE.Form1.resources
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Release\MergePDF2EXE.Resources.resources
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Release\MergePDF2EXE.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Release\MergePDF2EXE.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Release\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Release\MergePDF2EXE.xml
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Release\MergePDF2EXE.pdb
+C:\Users\Lenovo\source\repos\dropper  vb\bin\Release\MergePDF2EXE.exe.config
+C:\Users\Lenovo\source\repos\dropper  vb\bin\Release\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\dropper  vb\bin\Release\MergePDF2EXE.pdb
+C:\Users\Lenovo\source\repos\dropper  vb\bin\Release\MergePDF2EXE.xml
+C:\Users\Lenovo\source\repos\dropper  vb\obj\Release\MergePDF2EXE.Form1.resources
+C:\Users\Lenovo\source\repos\dropper  vb\obj\Release\MergePDF2EXE.Resources.resources
+C:\Users\Lenovo\source\repos\dropper  vb\obj\Release\MergePDF2EXE.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\dropper  vb\obj\Release\MergePDF2EXE.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\dropper  vb\obj\Release\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\dropper  vb\obj\Release\MergePDF2EXE.xml
+C:\Users\Lenovo\source\repos\dropper  vb\obj\Release\MergePDF2EXE.pdb

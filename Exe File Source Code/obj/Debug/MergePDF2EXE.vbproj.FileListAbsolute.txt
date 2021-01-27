@@ -1,0 +1,32 @@
+C:\Users\Lenovo\source\repos\MergePDF2EXE\bin\Debug\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.Form1.resources
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.Resources.resources
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.vbprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MergePDF2EXE\bin\Debug\MergePDF2EXE.exe.config
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.xml
+C:\Users\Lenovo\source\repos\MergePDF2EXE\obj\Debug\MergePDF2EXE.pdb
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\bin\Debug\MergePDF2EXE.exe.config
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\bin\Debug\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\bin\Debug\MergePDF2EXE.pdb
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\bin\Debug\MergePDF2EXE.xml
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\obj\Debug\MergePDF2EXE.Form1.resources
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\obj\Debug\MergePDF2EXE.Resources.resources
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\obj\Debug\MergePDF2EXE.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\obj\Debug\MergePDF2EXE.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\obj\Debug\MergePDF2EXE.exe
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\obj\Debug\MergePDF2EXE.xml
+C:\Users\Lenovo\source\repos\Malware Dropper(vb.net)\dropper(main)\obj\Debug\MergePDF2EXE.pdb
+F:\4emp\dropper(main)\bin\Debug\MergePDF2EXE.exe.config
+F:\4emp\dropper(main)\bin\Debug\MergePDF2EXE.exe
+F:\4emp\dropper(main)\bin\Debug\MergePDF2EXE.pdb
+F:\4emp\dropper(main)\bin\Debug\MergePDF2EXE.xml
+F:\4emp\dropper(main)\obj\Debug\MergePDF2EXE.Form1.resources
+F:\4emp\dropper(main)\obj\Debug\MergePDF2EXE.Resources.resources
+F:\4emp\dropper(main)\obj\Debug\MergePDF2EXE.vbproj.GenerateResource.cache
+F:\4emp\dropper(main)\obj\Debug\MergePDF2EXE.vbproj.CoreCompileInputs.cache
+F:\4emp\dropper(main)\obj\Debug\MergePDF2EXE.exe
+F:\4emp\dropper(main)\obj\Debug\MergePDF2EXE.xml
+F:\4emp\dropper(main)\obj\Debug\MergePDF2EXE.pdb
