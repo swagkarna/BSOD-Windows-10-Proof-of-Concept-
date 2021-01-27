@@ -8,6 +8,8 @@
 ## Social Engineering Attacks
 ### I have Done some social engineering techniques in order to perfom this attack.....
 ### When User runs this exe file a pdf will be displayed on his windows and after 20sec his windows10 will be crashed...
+## Execution ::
+### Just simply run POC.exe ... And The Magic Happens
 ## Malware Detection ::
 ### This exe file is fully undetectable not detected by windows defender...So user wont get any threat alerts...This file is coded in VB.Net
 
