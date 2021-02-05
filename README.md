@@ -11,7 +11,7 @@
 ## Execution ::
 ### Just simply run POC.exe ... And The Magic Happens
 ## Malware Detection ::
-### This exe file is fully undetectable not detected by windows defender...So user wont get any threat alerts...This file is coded in VB.Net
+### This exe file is fully undetectable not detected by windows defender...So user wont get any threat alerts...This  exe file is coded in VB.Net
 
 ## Disclaimer ::
 ## Use it Only For Educational Purpose....Love You Guys....
