@@ -1,4 +1,4 @@
-# BSOD-Windows-10-Proof-of-Concept- ---> Still Not Patched
+# BSOD-Windows-10-Proof-of-Concept- --->  Patched By Microsoft
 
 <img src="https://raw.githubusercontent.com/swagkarna/BSOD-Windows-10-Proof-of-Concept-/main/windows-10-crash.jpg">
 
